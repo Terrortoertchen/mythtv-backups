@@ -1,0 +1,6 @@
+/var/log/sgfxi/sgfxi.log {
+	rotate 8
+	create
+	size 10k
+}
+

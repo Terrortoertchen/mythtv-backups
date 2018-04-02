@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>/home/terror/.mythtv/.w++/de.tvtoday-guide.xml</filename>
+  <mode>nomask</mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry channel-delay="5" index-delay="1" show-delay="1" time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>incremental</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+    <channel update="i" site="m.tvtoday.de" site_id="3SAT" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ANIXE" xmltv_id="ANIXE">ANIXE</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ALPHA" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ARTE" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BBC" xmltv_id="BBC-WN">BBC World News</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BR" xmltv_id="BR">BR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="CC" xmltv_id="COMEDYCENTRAL">COMEDY CENTRAL</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ARD" xmltv_id="DasErste">Das Erste</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DMC" xmltv_id="DELUXEMUSIC">DELUXE MUSIC</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DMF" xmltv_id="Deutsches-Musik-Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DMAX" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="EURO" xmltv_id="Eurosport1">Eurosport 1</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HR" xmltv_id="HR">HR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HSE" xmltv_id="HSE24">HSE24</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="K1" xmltv_id="K1">kabel eins</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="K1DOKU" xmltv_id="K1DOKU">kabel eins Doku</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="KIKA" xmltv_id="KiKA">KiKA</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="MDR" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="NTV" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="N24" xmltv_id="N24">N24</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="N24DOKU" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="N3" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="PHOEN" xmltv_id="PHOENIX">PHOENIX</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="PRO7" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="PRO7M" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="QVC" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="QVCP" xmltv_id="QVC Plus">QVC Plus</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="RTL" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="RTL-N" xmltv_id="RTL-N">RTL NITRO</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="SAT1" xmltv_id="SAT1">SAT.1</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="SAT1G" xmltv_id="SAT1G">SAT.1 Gold</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="SIXX" xmltv_id="sixx">sixx</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="SKLAR" xmltv_id="sonnenklar TV">sonnenklar TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="SUPER" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="SWR" xmltv_id="SWR/SR">SWR/SR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="TAG24" xmltv_id="tagesschau24">tagesschau 24</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="TELE5" xmltv_id="TELE5">TELE 5</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="TV5" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="VIVA" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="VOX" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="WDR" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="WDWTV" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ZINFO" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="2NEO" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ZEE-1" xmltv_id="Zee.One">Zee.One</channel>
+</settings>

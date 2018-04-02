@@ -1,0 +1,14 @@
+/var/log/x2gobroker/loadchecker.log {
+	weekly
+	missingok
+	rotate 52
+	compress
+	delaycompress
+	notifempty
+	create 640 x2gobroker adm
+	su root adm
+	sharedscripts
+	postrotate
+		invoke-rc.d x2gobroker-loadchecker restart > /dev/null
+	endscript
+}

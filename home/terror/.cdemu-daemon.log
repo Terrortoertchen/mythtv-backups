@@ -1,0 +1,10 @@
+Starting CDEmu daemon with following parameters:
+ - num devices: 1
+ - control device: /dev/vhba_ctl
+ - audio driver: default
+ - bus type: session
+
+Received signal - Beendet
+Received signal - Aufgelegt
+Received signal - Beendet
+Stopping daemon.

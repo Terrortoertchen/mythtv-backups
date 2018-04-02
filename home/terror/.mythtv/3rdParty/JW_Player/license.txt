@@ -1,0 +1,12 @@
+The paragraph below is from the original license.txt from LongTail Video's
+JW Player download .zip package.  The license below applies only to JW
+Player, the MythTV source code license is located in the MythTV source
+code or installed package.
+
+===========================================================================
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy
+of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
+or send a letter to Creative Commons, 171 Second Street, Suite 300,
+San Francisco, California, 94105, USA.

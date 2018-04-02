@@ -1,0 +1,247 @@
+# Author(s): Patrick Butler
+# Created for use with LIRCFirefox
+# Use xdotool help to see full range of commands
+# the config line is split up into pieces and fed directly to
+# xdotool
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_UP
+    config = mousemove_relative -- 0 -1
+    repeat = 1
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_DOWN
+    config = mousemove_relative -- 0 1
+    repeat = 1
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_OK
+    config = click 1
+    repeat = 0
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_LEFT
+    config = mousemove_relative -- -1 0
+    repeat = 1
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_RIGHT
+    config = mousemove_relative -- 1 0
+    repeat = 1
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_BACK
+    config = EXIT
+    repeat = 0
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_VOLUMEUP
+    config = VOLUME_UP
+    repeat = 1
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_VOLUMEDOWN
+    config = VOLUME_DOWN
+    repeat = 1
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_MUTE
+    config = MUTE
+    repeat = 0
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_REWIND
+    config = KEY shift+Left
+    repeat = 2
+    delay = 5
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_AGAIN
+    config = KEY shift+Tab
+    repeat = 2
+    delay = 5
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_FORWARD
+    config = KEY shift+Right
+    repeat = 2
+    delay = 5
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_NEXT
+    config = KEY Tab
+    repeat = 2
+    delay = 5
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_PLAY
+    config = KEY space
+    repeat = 0
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_PAUSE
+    config = KEY space
+    repeat = 0
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_1
+    config = KEY 1
+    repeat = 0
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_2
+    config = SMSJUMP A B C 2
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_3
+    config = SMSJUMP D E F 3
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_4
+    config = SMSJUMP G H I 4
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_5
+    config = SMSJUMP J K L 5
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_6
+    config = SMSJUMP M N O 6
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_7
+    config = SMSJUMP P Q R S 7
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_8
+    config = SMSJUMP T U V 8
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_9
+    config = SMSJUMP W X Y Z 9
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_0
+    config = SMSJUMP space 0
+    repeat = 5
+    delay = 0
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_CLEAR
+    config = KEY BackSpace
+    repeat = 1
+    delay = 5
+end
+
+begin
+    remote = devinput
+    prog = firefox
+    button = KEY_ENTER
+    config = KEY Return
+    repeat = 0
+    delay = 0
+end

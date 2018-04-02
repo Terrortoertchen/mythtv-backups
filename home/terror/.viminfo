@@ -1,0 +1,579 @@
+# Diese viminfo-Datei wurde von Vim 7.4 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~Msle0~/\<sitemap\>
+
+# Letztes Ersetzen Suchmuster:
+~MSle0&\V\c*
+
+# Letzte ersetzte Zeichenkette:
+$NONE\1
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+:q!
+:q
+:qw
+:wq!
+:w
+:!q
+
+# Suchausdruck Geschichte (neueste bis älteste):
+? \<sitemap\>
+? bold\([\w,]*\)
+? \<User\>
+? \V\c*
+? \<GRUB_THEME\>
+?/26 various
+?/10 GUI
+?/ 4 displaying text
+? \<sudo\>
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+"0	LINE	0
+	
+	
+	
+	
+	
+	#
+"1	LINE	0
+	xmlSyncDT      xxx cleared
+"2	LINE	0
+	dtdConstant    xxx links to Constant
+"3	LINE	0
+	dtdType        xxx links to Type
+"4	LINE	0
+	dtdEntity      xxx links to Statement
+"5	LINE	0
+	dtdEntityPunct xxx links to dtdType
+"6	LINE	0
+	dtdParamEntityDPunct xxx links to dtdComment
+"7	LINE	0
+	dtdParamEntityPunct xxx links to dtdType
+"8	LINE	0
+	dtdTodo        xxx links to Todo
+"9	LINE	0
+	dtdCard        xxx links to dtdFunction
+"x	LINE	0
+	highlight SpecialKey     term=NONE ctermfg=1 guifg=Blue
+	highlight NonText        term=NONE ctermfg=9 gui=NONE guifg=Blue
+	highlight Directory      term=NONE ctermfg=1 guifg=Blue
+	highlight ErrorMsg       term=standout ctermfg=15 ctermbg=4 guifg=White guibg=Red
+	highlight IncSearch      term=reverse cterm=reverse gui=reverse
+	highlight Search         term=reverse ctermfg=0 ctermbg=14 guibg=Yellow
+	highlight MoreMsg        term=NONE ctermfg=2 gui=NONE guifg=SeaGreen
+	highlight ModeMsg        term=NONE cterm=NONE gui=NONE
+	highlight LineNr         term=underline ctermfg=6 guifg=Brown
+	highlight CursorLineNr   term=NONE ctermfg=6 gui=NONE guifg=Brown
+	highlight Question       term=standout ctermfg=2 gui=NONE guifg=SeaGreen
+	highlight StatusLine     term=NONE,reverse cterm=NONE,reverse gui=NONE,reverse
+	highlight StatusLineNC   term=reverse cterm=reverse gui=reverse
+	highlight VertSplit      term=reverse cterm=reverse gui=reverse
+	highlight Title          term=NONE ctermfg=5 gui=NONE guifg=Magenta
+	highlight Visual         term=reverse cterm=reverse guibg=LightGrey
+	highlight VisualNOS      term=NONE,underline cterm=NONE,underline gui=NONE,underline
+	highlight WarningMsg     term=standout ctermfg=4 guifg=Red
+	highlight WildMenu       term=standout ctermfg=0 ctermbg=14 guifg=Black guibg=Yellow
+	highlight Folded         term=standout ctermfg=1 ctermbg=7 guifg=DarkBlue guibg=LightGrey
+	highlight FoldColumn     term=standout ctermfg=1 ctermbg=7 guifg=DarkBlue guibg=Grey
+	highlight DiffAdd        term=NONE ctermbg=9 guibg=LightBlue
+	highlight DiffChange     term=NONE ctermbg=13 guibg=LightMagenta
+	highlight DiffDelete     term=NONE ctermfg=9 ctermbg=11 gui=NONE guifg=Blue guibg=LightCyan
+	highlight DiffText       term=reverse cterm=NONE ctermbg=12 gui=NONE guibg=Red
+	highlight SignColumn     term=standout ctermfg=1 ctermbg=7 guifg=DarkBlue guibg=Grey
+	highlight Conceal        ctermfg=7 ctermbg=8 guifg=LightGrey guibg=DarkGrey
+	highlight SpellBad       term=reverse ctermbg=12 gui=undercurl guisp=Red
+	highlight SpellCap       term=reverse ctermbg=9 gui=undercurl guisp=Blue
+	highlight SpellRare      term=reverse ctermbg=13 gui=undercurl guisp=Magenta
+	highlight SpellLocal     term=underline ctermbg=11 gui=undercurl guisp=DarkCyan
+	highlight Pmenu          ctermfg=0 ctermbg=13 guibg=LightMagenta
+	highlight PmenuSel       ctermfg=0 ctermbg=7 guibg=Grey
+	highlight PmenuSbar      ctermbg=7 guibg=Grey
+	highlight PmenuThumb     ctermbg=0 guibg=Black
+	highlight TabLine        term=underline cterm=underline ctermfg=0 ctermbg=7 gui=underline guibg=LightGrey
+	highlight TabLineSel     term=NONE cterm=NONE gui=NONE
+	highlight TabLineFill    term=reverse cterm=reverse gui=reverse
+	highlight CursorColumn   term=reverse ctermbg=7 guibg=Grey90
+	highlight CursorLine     term=underline cterm=underline guibg=Grey90
+	highlight ColorColumn    term=reverse ctermbg=12 guibg=LightRed
+	highlight Cursor         guifg=bg guibg=fg
+	highlight lCursor        guifg=bg guibg=fg
+	highlight MatchParen     term=reverse ctermbg=11 guibg=Cyan
+	highlight Normal         font='Consolas 14'
+	highlight Comment        term=NONE ctermfg=1 guifg=Blue
+	highlight Constant       term=underline ctermfg=4 guifg=Magenta
+	highlight Special        term=NONE ctermfg=5 guifg=SlateBlue
+	highlight Identifier     term=underline ctermfg=3 guifg=DarkCyan
+	highlight Statement      term=NONE ctermfg=6 gui=NONE guifg=Brown
+""-	CHAR	0
+	<
+
+# Datei-Marken:
+'0  24  0  /etc/openhab2/sitemaps/homesweethome.sitemap
+'1  1  4  /usr/share/mythtv/metadata/Television/ttvdb.py
+'2  1  0  ~/.mythtv/.w++/update.sh
+'3  64  0  ~/.nanorc
+'4  8  1  ~/.nanorc
+'5  16  0  ~/.nanorc
+'6  20  0  ~/.nanorc
+'7  32  0  ~/.mythtv/mc2xml/newxmltv.xml
+'8  1  0  ~/Dokumente/MechWarrior Online/Profiles/MechCliff/attributes.xml
+'9  80  0  ~/.mythtv/themes/Steppes/menu-ui.xml
+
+# Geschichte (neueste zuerst):
+-'  24  0  /etc/openhab2/sitemaps/homesweethome.sitemap
+-'  1  0  /etc/openhab2/sitemaps/homesweethome.sitemap
+-'  1  4  /usr/share/mythtv/metadata/Television/ttvdb.py
+-'  1  0  ~/.mythtv/.w++/update.sh
+-'  64  0  ~/.nanorc
+-'  8  0  ~/.nanorc
+-'  16  0  ~/.nanorc
+-'  20  0  ~/.nanorc
+-'  1  0  ~/.nanorc
+-'  32  0  ~/.mythtv/mc2xml/newxmltv.xml
+-'  1  0  ~/.mythtv/mc2xml/newxmltv.xml
+-'  1  0  ~/Dokumente/MechWarrior Online/Profiles/MechCliff/attributes.xml
+-'  80  0  ~/.mythtv/themes/Steppes/menu-ui.xml
+-'  1  0  ~/.mythtv/themes/Steppes/menu-ui.xml
+-'  9  12  ~/.mythtv/config.xml
+-'  1  0  ~/.mythtv/config.xml
+-'  17  14  ~/.bashrc
+-'  115  36  ~/.bashrc
+-'  1  8  ~/.kde/share/config/kwinrc
+-'  1  0  ~/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+-'  5  0  /usr/share/X11/xorg.conf.d/11-evdev-quirks.conf
+-'  1  0  /usr/share/X11/xorg.conf.d/11-evdev-quirks.conf
+-'  1  0  /usr/share/X11/xorg.conf.d/10-quirks.conf
+-'  40  0  /usr/share/X11/xorg.conf.d/10-evdev.conf
+-'  1  0  /usr/share/X11/xorg.conf.d/10-evdev.conf
+-'  1  0  /usr/share/X11/xorg.conf.d/monitor.conf
+-'  1  0  /usr/share/X11/xorg.conf.d/glamoregl.conf
+-'  6  29  /usr/share/X11/xorg.conf.d/10-nvidia.conf
+-'  16  410  /usr/share/X11/xorg.conf.d/10-nvidia.conf
+-'  1  0  /usr/share/X11/xorg.conf.d/10-nvidia.conf
+-'  44  0  /etc/default/grub
+-'  31  0  /etc/default/grub
+-'  109  13  /usr/bin/lircfirefox.py
+-'  22  13  /usr/bin/lircfirefox.py
+-'  2  87  /usr/bin/lircfirefox_config.py
+-'  1  0  /usr/bin/lircfirefox_config.py
+-'  1  0  /usr/bin/lircfirefox.py
+-'  54  0  /etc/X11/xorg.conf
+-'  46  15  /etc/X11/xorg.conf
+-'  52  16  /etc/X11/xorg.conf
+-'  61  19  /etc/X11/xorg.conf.12022016
+-'  1  0  /etc/X11/xorg.conf.12022016
+-'  1  0  /etc/X11/xorg.conf
+-'  7  0  ~/Downloads/kde-services-2.1/mime/text/kde-services.xml
+-'  1  0  ~/Downloads/kde-services-2.1/mime/text/kde-services.xml
+-'  7  0  ~/.xinitrc
+-'  1  0  ~/.xinitrc
+-'  55  0  /etc/pulse/system.pa
+-'  1  0  /etc/pulse/system.pa
+-'  163  0  /etc/pulse/default.pa
+-'  1  0  /etc/pulse/default.pa
+-'  86  18  /etc/pulse/daemon.conf
+-'  1  0  /etc/pulse/daemon.conf
+-'  16  0  /etc/systemd/system/dbus-org.bluez.service
+-'  9  0  /etc/systemd/system/dbus-org.bluez.service
+-'  19  27  /etc/systemd/system/dbus-org.bluez.service
+-'  1  0  /etc/systemd/system/dbus-org.bluez.service
+-'  16  91  ~/dummerscheis.txt
+-'  1  97  ~/dummerscheis.txt
+-'  2  90  ~/dummerscheis.txt
+-'  12  68  ~/dummerscheis.txt
+-'  3  44  /etc/systemd/system/getty@tty1.service.d/.#override.confeb157c089e2b5a07
+-'  1  0  /etc/systemd/system/getty@tty1.service.d/.#override.confeb157c089e2b5a07
+-'  1  0  ~/.terminfo
+-'  30  0  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  26  25  /etc/default/grub
+-'  354  31  /usr/share/vim/vim74/doc/usr_toc.dex
+-'  1  0  /usr/share/vim/vim74/doc/usr_toc.dex
+-'  27  27  /etc/default/grub
+-'  12  54  /etc/default/grub
+-'  1  0  /etc/mysql/mysql.conf.d/mythtv.cnf
+-'  2  0  /etc/mysql/conf.d/connect.cnf
+-'  1  0  /etc/mysql/conf.d/connect.cnf
+-'  8  0  ~/option-window
+-'  2  0  /etc/mysql/conf.d/mythtv.cnf
+-'  1  0  /etc/mysql/conf.d/mythtv.cnf
+-'  1  0  /tmp/mozilla_terror0/Saluton-1.cpp
+-'  1  0  /tmp/mozilla_terror0/Saluton.cpp
+-'  7  0  /tmp/mozilla_terror0/Motto.cpp
+-'  1  0  /tmp/mozilla_terror0/Motto.cpp
+-'  1  0  /usr/share/software-properties/gtkbuilder/main.ui
+-'  1  0  /etc/mc/edit.indent.rc
+-'  1  0  /etc/mc/mc.menu.sr
+-'  22  0  /etc/mc/mc.menu
+-'  1  0  /etc/mc/mc.menu
+-'  44  0  /etc/mc/mc.default.keymap
+-'  1  0  /etc/mc/mc.default.keymap
+-'  69  14  ~/.byobu/statusrc
+-'  1  0  ~/.byobu/statusrc
+-'  1  0  ~/.byobu/backend
+-'  30  0  /usr/share/byobu/profiles/tmuxrc
+-'  35  0  /usr/share/byobu/profiles/tmux
+-'  1  0  /usr/share/byobu/profiles/tmux
+-'  27  0  /usr/share/byobu/profiles/byoburc
+-'  1  0  /usr/share/byobu/profiles/byoburc
+-'  35  0  /usr/share/byobu/profiles/bashrc
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> /etc/openhab2/sitemaps/homesweethome.sitemap
+	"	24	0
+	^	24	0
+	.	23	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	2
+	+	22	0
+	+	9	1
+	+	10	1
+	+	11	1
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	15	59
+	+	16	0
+	+	16	51
+	+	16	123
+	+	16	181
+	+	19	0
+	+	19	49
+	+	19	117
+	+	20	0
+	+	20	56
+	+	20	128
+	+	21	0
+	+	21	43
+	+	21	84
+	+	21	84
+	+	21	83
+	+	20	56
+	+	20	56
+	+	20	0
+	+	19	49
+	+	16	123
+	+	16	51
+	+	16	106
+	+	16	0
+	+	16	0
+	+	11	0
+	+	16	102
+	+	19	0
+	+	16	46
+	+	17	11
+	+	22	1
+	+	23	0
+
+> /usr/share/mythtv/metadata/Television/ttvdb.py
+	"	1	4
+	^	142	4
+	.	142	4
+	+	142	4
+
+> ~/.mythtv/.w++/update.sh
+	"	1	0
+
+> ~/.nanorc
+	"	64	0
+	^	64	0
+	.	63	34
+	+	16	33
+	+	19	2
+	+	20	0
+	+	20	0
+	+	20	0
+	+	21	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	63	0
+	+	7	1
+	+	63	34
+
+> ~/.mythtv/mc2xml/newxmltv.xml
+	"	32	0
+
+> ~/Dokumente/MechWarrior Online/Profiles/MechCliff/attributes.xml
+	"	1	0
+
+> ~/.mythtv/themes/Steppes/menu-ui.xml
+	"	80	0
+
+> ~/.mythtv/config.xml
+	"	9	12
+
+> ~/.bashrc
+	"	17	14
+	^	17	15
+	.	17	14
+	+	46	0
+	+	115	82
+	+	17	14
+
+> ~/.kde/share/config/kwinrc
+	"	1	8
+
+> ~/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /usr/share/X11/xorg.conf.d/11-evdev-quirks.conf
+	"	5	0
+
+> /usr/share/X11/xorg.conf.d/10-quirks.conf
+	"	1	0
+
+> /usr/share/X11/xorg.conf.d/10-evdev.conf
+	"	40	0
+
+> /usr/share/X11/xorg.conf.d/monitor.conf
+	"	1	0
+
+> /usr/share/X11/xorg.conf.d/glamoregl.conf
+	"	1	0
+
+> /usr/share/X11/xorg.conf.d/10-nvidia.conf
+	"	6	29
+	^	6	30
+	.	16	10
+	+	16	816
+	+	16	409
+	+	6	49
+	+	15	8
+	+	7	53
+	+	16	10
+
+> /etc/default/grub
+	"	44	0
+	^	44	1
+	.	44	0
+	+	12	54
+	+	26	24
+	+	12	66
+	+	27	26
+	+	26	24
+	+	30	0
+	+	31	46
+	+	27	0
+	+	44	0
+
+> /usr/bin/lircfirefox.py
+	"	109	13
+	^	22	14
+	.	22	14
+	+	22	14
+
+> /usr/bin/lircfirefox_config.py
+	"	2	87
+	^	2	88
+	.	2	88
+	+	2	88
+
+> /etc/X11/xorg.conf
+	"	54	0
+
+> /etc/X11/xorg.conf.12022016
+	"	61	19
+	^	61	20
+	.	52	4
+	+	48	25
+	+	51	4
+	+	52	4
+
+> ~/Downloads/kde-services-2.1/mime/text/kde-services.xml
+	"	7	0
+
+> ~/.xinitrc
+	"	7	0
+
+> /etc/pulse/system.pa
+	"	55	0
+
+> /etc/pulse/default.pa
+	"	163	0
+	.	27	0
+	+	27	0
+
+> /etc/pulse/daemon.conf
+	"	86	18
+	^	86	19
+	.	47	18
+	+	27	0
+	+	26	0
+	+	24	0
+	+	25	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	32	0
+	+	35	0
+	+	43	0
+	+	44	0
+	+	46	20
+	+	47	18
+
+> /etc/systemd/system/dbus-org.bluez.service
+	"	16	0
+	^	16	0
+	.	9	0
+	+	9	0
+
+> /etc/systemd/system/getty@tty1.service.d/.#override.confeb157c089e2b5a07
+	"	3	44
+	^	3	45
+	.	3	44
+	+	3	44
+
+> ~/.terminfo
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /etc/sysconfig/vncservers
+	"	19	0
+	^	18	13
+	.	18	12
+	+	18	12
+
+> ~/.vimrc
+	"	1	0
+	^	1	0
+
+> ~/option-window
+	"	653	0
+	^	34	0
+	.	937	0
+	+	2798	0
+	+	1916	0
+	+	944	15
+	+	1873	0
+	+	937	0
+
+> /usr/share/vim/vim74/doc/usr_toc.dex
+	"	354	31
+
+> /etc/mysql/mysql.conf.d/mythtv.cnf
+	"	10	0
+	^	10	0
+	.	2	0
+	+	2	0
+	+	11	9
+	+	13	0
+	+	3	0
+	+	4	0
+	+	7	0
+	+	7	0
+	+	2	0
+
+> /etc/grub.d/10_linux
+	"	26	21
+	^	26	21
+
+> /etc/mysql/conf.d/connect.cnf
+	"	2	0
+	^	2	1
+	.	2	0
+	+	2	0
+
+> /etc/mysql/conf.d/mythtv.cnf
+	"	2	0
+
+> /tmp/mozilla_terror0/Saluton-1.cpp
+	"	1	0
+
+> /tmp/mozilla_terror0/Saluton.cpp
+	"	1	0
+
+> /tmp/mozilla_terror0/Motto.cpp
+	"	7	0
+
+> /usr/share/software-properties/gtkbuilder/main.ui
+	"	1	0
+
+> /etc/mc/edit.indent.rc
+	"	1	0
+
+> /etc/mc/mc.menu.sr
+	"	1	0
+
+> /etc/mc/mc.menu
+	"	22	0
+
+> /etc/mc/mc.default.keymap
+	"	44	0
+
+> ~/nline.service
+	"	124	0
+	^	124	0
+	.	124	0
+	+	124	0
+
+> ~/.byobu/prompt
+	"	1	2
+	^	1	2
+
+> /usr/share/byobu/profiles/bashrc
+	"	35	0
+	^	35	0
+
+> /usr/share/byobu/profiles/byoburc
+	"	27	0
+	^	27	0
+	.	27	0
+	+	27	0
+
+> /usr/share/byobu/profiles/tmux
+	"	35	0
+	^	35	0
+	.	41	0
+	+	40	0
+	+	41	0
+
+> /usr/share/byobu/profiles/tmuxrc
+	"	30	0
+	^	30	0
+
+> ~/.byobu/backend
+	"	1	0
+	^	1	0
+
+> ~/.byobu/statusrc
+	"	69	14
+	^	69	14
+
+> /etc/sudoers.tmp
+	"	21	11
+	^	21	12
+	.	21	12
+	+	30	0
+	+	21	6
+	+	12	0
+	+	26	0
+	+	27	0
+	+	21	12

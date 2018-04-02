@@ -1,0 +1,9 @@
+/var/log/mythbuntu-bare-client.log {
+        daily
+        size=10M
+        rotate 7
+        notifempty
+        copytruncate
+        missingok
+        create 666 root mythtv
+}

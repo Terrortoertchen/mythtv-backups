@@ -1,0 +1,6 @@
+/var/log/smxi.log {
+	rotate 2
+	size 200k
+	create
+}
+

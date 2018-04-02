@@ -1,0 +1,14 @@
+/var/log/x2gobroker/authservice.log {
+	weekly
+	missingok
+	rotate 52
+	compress
+	delaycompress
+	notifempty
+	create 640 root adm
+	su root adm
+	sharedscripts
+	postrotate
+		invoke-rc.d x2gobroker-authservice restart > /dev/null
+	endscript
+}

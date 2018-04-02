@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mythmenu name="LIBRARY">
+
+    <button>
+        <type>STREAM</type>
+        <text>Netflix</text>
+        <description>Watch Netflix</description>
+        <action>EXEC google-chrome --start-fullscreen --profile-directory=Default --app-id=eppojlglocelodeimnohnlnionkobfln</action>
+    </button>
+    
+    <button>
+        <type>STREAM</type>
+        <text>Amazon Prime</text>
+        <description>Watch Amazone Prime, listen to Musik and read your eBooks</description>
+        <action>EXEC google-chrome --start-fullscreen --profile-directory=Default https://www.amazone.com </action>
+    </button>
+    
+    <button>
+        <type>STREAM</type>
+        <text>Movie4k</text>
+        <description>Watch Movie4k</description>
+        <action>EXEC google-chrome --start-fullscreen --profile-directory=Default --app-id=fdhaknnjcpmhpbjjgbdimhnmleleocch</action>
+    </button>
+
+    <button>
+        <type>STREAM</type>
+        <text>Film Palast</text>
+        <description>Watch Film Palast</description>
+        <action>EXEC google-chrome --start-fullscreen --profile-directory=Default --app-id=ljkinfmfkaklpmneiccgojifolcjhbjp</action>
+    </button>
+
+    <button>
+        <type>STREAM</type>
+        <text>TaTa.To</text>
+        <description>Watch TaTa.To</description>
+        <action>EXEC google-chrome --start-fullscreen http://www.tata.to </action>
+    </button>
+
+</mythmenu>

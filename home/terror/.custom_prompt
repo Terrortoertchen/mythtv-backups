@@ -1,0 +1,31 @@
+function pre_prompt { 
+'''host=${HOSTNAME/.*}
+}
+PROMPT_COMMAND=pre_prompt 
+
+PS1="\[\\033[\${prompt_line};0H\]\┌─( \u @ \h )─\${fill}─( \$(_newPWD) )────┘\└─( uptime: \$(systemkit uptime) : \$(showuser) )·> "
+'''host=${HOSTNAME/.*}
+}
+PROMPT_COMMAND=pre_prompt 
+
+PS1="\[\\033[\${prompt_line};0H\]\┌─( \u @ \h )─\${fill}─( \$(_newPWD) )────┘\└─( uptime: \$(systemkit uptime) : \$(showuser) )·> "
+'''host=${HOSTNAME/.*}
+}
+PROMPT_COMMAND=pre_prompt 
+
+PS1="\[\\033[\${prompt_line};0H\]\┌─( \u @ \h )─\${fill}─( \$(_newPWD) )────┘\└─( uptime: \$(systemkit uptime) : \$(showuser) )·> "
+'''host=${HOSTNAME/.*}
+}
+PROMPT_COMMAND=pre_prompt 
+
+PS1="\[\\033[\${prompt_line};0H\]\┌─( \u @ \h )─\${fill}─( \$(_newPWD) )────┘\└─( uptime: \$(systemkit uptime) : \$(showuser) )·> "
+'''host=${HOSTNAME/.*}
+}
+PROMPT_COMMAND=pre_prompt 
+
+PS1="\[\\033[\${prompt_line};0H\]\┌─( \u @ \h )─\${fill}─( \$(_newPWD) )────┘\└─( uptime: \$(systemkit uptime) : \$(showuser) )·> "
+'''host=${HOSTNAME/.*}
+}
+PROMPT_COMMAND=pre_prompt 
+
+PS1="\[\\033[\${prompt_line};0H\]\┌─( \u @ \h )─\${fill}─( \$(_newPWD) )────┘\└─( uptime: \$(systemkit uptime) : \$(showuser) )·> "

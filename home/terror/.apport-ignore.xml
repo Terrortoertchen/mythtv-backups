@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<apport>
+  <ignore mtime="1392909892" program="/usr/bin/mythbuntu-control-centre"/>
+  <ignore mtime="1459560264" program="/usr/bin/mythfrontend.real"/>
+  <ignore mtime="1460684679" program="/usr/bin/korgac"/>
+</apport>

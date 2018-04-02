@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RecentFiles>
+  <RecentItem>
+    <URI>file:///home/terror/Lasstpass.csv</URI>
+    <Mime-Type>text/csv</Mime-Type>
+    <Timestamp>1485562492</Timestamp>
+    <Groups />
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/terror/NewDatabase.kdbx</URI>
+    <Mime-Type>application/x-keepass2</Mime-Type>
+    <Timestamp>1485561623</Timestamp>
+    <Groups />
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/terror/.local/NewDatabase.kdbx</URI>
+    <Mime-Type>application/x-keepass2</Mime-Type>
+    <Timestamp>1485561290</Timestamp>
+    <Groups />
+  </RecentItem>
+</RecentFiles>

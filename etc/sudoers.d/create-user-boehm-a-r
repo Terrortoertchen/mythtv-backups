@@ -1,0 +1,4 @@
+# Created by snap create-user
+
+# User rules for boehm-a-r
+boehm-a-r ALL=(ALL) NOPASSWD:ALL

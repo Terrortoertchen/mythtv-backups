@@ -1,0 +1,103 @@
+touch /home/terror/.bashstyle.log
+BashStyle-NG startet
+BashStyle-NG Bash Major Version: 4
+BashStyle-NG Bash Minor Version: 3
+BashStyle-NG Bash Patch Level: 48
+BashStyle-NG Version: 10.3.90
+BashStyle-NG Präfix: /usr
+BashStyle-NG Logdatei: /home/terror/.bashstyle.log
+BashStyle-NG Ini Version: 32
+shopt -s checkwinsize
+source /usr/share/bashstyle-ng/rc/settings/color-rc
+BashStyle-NG Setze: Colors An
+BashStyle-NG Setze: Color-Style normal
+source /usr/share/bashstyle-ng/rc/settings/ls-rc
+BashStyle-NG Setze: LS_COLORS
+export LS_COLORS=*=0;97:ex=0;32:*.log=0;38;5;690:*.deb=0;38;5;604:*.rpm=0;38;5;604:di=0;38;5;714:*.jpg=:*.png=0;35:*.gif=0;35:*.mp3=0;33:*.ogg=0;33:*.flac=0;33:*.tar=0;36:*.tar.gz=0;34:*.tar.bz2=0;38;5;45:*.tar.xz=0;38;5;33:*.zip=0;38;5;213:*.rar=0;38;5;213:ln=0;36:so=0;33:pi=0;31:bd=0;34:cd=0;32:
+LS_COLORS Setze: LS_COLORS *=0;97:ex=0;32:*.log=0;38;5;690:*.deb=0;38;5;604:*.rpm=0;38;5;604:di=0;38;5;714:*.jpg=:*.png=0;35:*.gif=0;35:*.mp3=0;33:*.ogg=0;33:*.flac=0;33:*.tar=0;36:*.tar.gz=0;34:*.tar.bz2=0;38;5;45:*.tar.xz=0;38;5;33:*.zip=0;38;5;213:*.rar=0;38;5;213:ln=0;36:so=0;33:pi=0;31:bd=0;34:cd=0;32:
+source /usr/share/bashstyle-ng/rc/settings/vim-rc
+source /usr/share/bashstyle-ng/rc/settings/man-rc
+BashStyle-NG Setze: Shopts
+source /usr/share/bashstyle-ng/rc/settings/shopt-rc
+BashStyle-NG Setze: cdspell An
+shopt -s cdspell
+BashStyle-NG Setze: cdable_vars An
+shopt -s cdable_vars
+BashStyle-NG Setze: checkhash An
+shopt -s checkhash
+BashStyle-NG Setze: cmdhist An
+shopt -s cmdhist
+BashStyle-NG Setze: force_fignore An
+shopt -s force_fignore
+BashStyle-NG Setze: histreedit An
+shopt -s histreedit
+BashStyle-NG Setze: no_empty_cmd_completion An
+shopt -s no_empty_cmd_completion
+BashStyle-NG Setze: histappend An
+shopt -s histappend
+BashStyle-NG Setze: dotglob An
+shopt -s dotglob
+BashStyle-NG Setze: extglob An
+shopt -s extglob
+BashStyle-NG Setze: nocaseglob Aus
+shopt -u nocaseglob
+BashStyle-NG Setze: nocasematch Aus
+shopt -u nocasematch
+BashStyle-NG Setze: autocd Aus
+shopt -u autocd
+BashStyle-NG Setze: checkjobs Aus
+shopt -u checkjobs
+BashStyle-NG Setze: globstar Aus
+shopt -u globstar
+BashStyle-NG Setze: dirspell An
+shopt -s dirspell
+BashStyle-NG Setze: direxpand An
+shopt -s direxpand
+BashStyle-NG Setze: globasciiranges Aus
+shopt -u globasciiranges
+source /usr/share/bashstyle-ng/rc/settings/alias-rc
+BashStyle-NG Setze: Colored ls An
+alias ls=ls -CF --color=auto --group-directories-first
+BashStyle-NG Lade: BashStyle-NG
+source /usr/share/bashstyle-ng/rc/styles/null-rc
+BashStyle-NG Setze: PS2 »
+BashStyle-NG Setze: PS3 «
+BashStyle-NG Setze: PS4 +
+BashStyle-NG Setze: separator Prompt
+source /usr/share/bashstyle-ng/rc/styles/separator-rc
+source /usr/share/bashstyle-ng/rc/settings/options-rc
+export HISTTIMEFORMAT=
+BashStyle-NG Setze: HISTTIMEFORMAT 
+export HISTCONTROL=erasedups
+BashStyle-NG Setze: HISTCONTROL erasedups
+export HISTIGNORE=bg *:fg *:exit:cd *:source *:. *:clear:sudo *:su *:
+BashStyle-NG Setze: HISTIGNORE bg *:fg *:exit:cd *:source *:. *:clear:sudo *:su *:
+export FIGNORE=.old:.back:.bak:.:~:
+BashStyle-NG Setze: FIGNORE .old:.back:.bak:.:~:
+export GLOBIGNORE=
+BashStyle-NG Setze: GLOBIGNORE 
+export CDPATH=
+BashStyle-NG Setze: CDPATH 
+export FCEDIT=/usr/bin/vim
+BashStyle-NG Setze: FCEDIT /usr/bin/vim
+BashStyle-NG Setze: TMOUT 
+export HISTSIZE=1000
+BashStyle-NG Setze: HISTSIZE 1000
+export HISTFILESIZE=1000
+BashStyle-NG Setze: HISTFILESIZE 1000
+BashStyle-NG Setze: Colored grep An
+BashStyle-NG Setze: dd Optionen
+BashStyle-NG Setze: dd Fortschrittsleiste anzeigen
+export DD_OPTS= status=progress
+alias dd=__dd
+BashStyle-NG Setze: Diverse Optionen
+export pwdmaxlen=25
+export trunc_symbol=«
+export trunc_length=0
+export dirchar=/
+export user_char=$
+colorshell wird der DEBUG-Trap hinzugefügt
+alias cd=ccd
+export LSCD=True
+export LSCD_OPTS=--group-directories-first -CF --color
+remember command wird den DEBUG- und ERR-Traps hinzugefügt

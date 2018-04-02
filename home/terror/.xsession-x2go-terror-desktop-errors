@@ -1,0 +1,539 @@
+XSession-x2go: X session started for terror at Sat Aug 12 23:21:43 CEST 2017
+export DERBY_HOME="/usr/lib/jvm/java-8-oracle/db"
+export DISPLAY=":73"
+export HOME="/home/terror"
+export J2REDIR="/usr/lib/jvm/java-8-oracle/jre"
+export J2SDKDIR="/usr/lib/jvm/java-8-oracle"
+export JAVA_HOME="/usr/lib/jvm/java-8-oracle"
+export LD_LIBRARY_PATH="/usr/lib/nx/X11/Xinerama:/usr/lib/nx/X11"
+export LOGNAME="terror"
+export MAIL="/var/mail/terror"
+export NX_XINERAMA_CONF="/home/terror/.x2go/C-terror-73-1502572898_stDKDE_dp32/xinerama.conf"
+export OLDPWD
+export PATH="/home/terror/bin:/usr/local/bin:/usr/bin:/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin"
+export PULSE_CLIENTCONFIG="/home/terror/.x2go/C-terror-73-1502572898_stDKDE_dp32/.pulse-client.conf"
+export PWD="/home/terror"
+export QT_GRAPHICSSYSTEM="native"
+export SHELL="/bin/bash"
+export SHLVL="4"
+export SSH_AUTH_SOCK="/home/terror/.x2go/C-terror-73-1502572898_stDKDE_dp32/ssh-agent.PID"
+export SSH_CLIENT="192.168.178.10 50643 22"
+export SSH_CONNECTION="192.168.178.10 50643 192.168.178.99 22"
+export STARTUP="/usr/bin/env LD_LIBRARY_PATH=/usr/lib/nx/X11/Xinerama:/usr/lib/nx/X11 startkde"
+export USER="terror"
+export VDPAU_NVIDIA_SYNC_DISPLAY_DEVICE="DFP-1"
+export X2GO_AGENT_PID="23832"
+export X2GO_SESSION="terror-73-1502572898_stDKDE_dp32"
+export XAUTHORITY="/home/terror/.Xauthority"
+export XDG_DATA_DIRS="/home/terror/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share"
+export XSESSION_EXEC="startkde"
+export __GL_SYNC_DISPLAY_DEVICE="DFP-1"
+export __GL_SYNC_TO_VBLANK="1"
+localuser:terror being added to access control list
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+Could not initialize GLX
+startkde: Starting up...
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 24227, result = 0
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+kdeinit5: opened connection to :73
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+kdeinit5: preparing to launch 'libkdeinit5_kded5'
+kdeinit5: Launched KDED, pid = 24230 result = 0
+kdeinit5: preparing to launch 'libkdeinit5_kcminit_startup'
+kdeinit5: Launched 'kcminit_startup', pid = 24231 result = 0
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/device_automounter.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/freespacenotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/remotenotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/filenamesearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ktimezoned.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/bluedevil.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkstatus.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/khotkeys.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kwrited.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/appmenu.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/solidautoeject.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/baloosearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/desktopnotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkmanagement.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/soliduiserver.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/proxyscout.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kscreen.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/statusnotifierwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/recentdocumentsnotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/keyboard.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ksysguard.so"
+kf5.kservice.sycoca: Parse error in  "/home/terror/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu" , line  1 , col  1 :  "unexpected end of file"
+The desktop entry file  "/usr/share/applications/mb-applet-wireless.desktop"  has Type= "PanelApp"  instead of "Application" or "Service"
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/mb-applet-wireless.desktop"
+The desktop entry file  "/usr/share/applications/mb-applet-menu-launcher.desktop"  has Type= "PanelApp"  instead of "Application" or "Service"
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/mb-applet-menu-launcher.desktop"
+The desktop entry file "/usr/share/applications/display-im6.q16.desktop" has Type= "Application" but no Exec line
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/display-im6.q16.desktop"
+The desktop entry file "/usr/share/applications/display-im6.desktop" has Type= "Application" but no Exec line
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/display-im6.desktop"
+The desktop entry file  "/usr/share/applications/mb-applet-battery.desktop"  has Type= "PanelApp"  instead of "Application" or "Service"
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/mb-applet-battery.desktop"
+The desktop entry file  "/usr/share/applications/mb-applet-clock.desktop"  has Type= "PanelApp"  instead of "Application" or "Service"
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/mb-applet-clock.desktop"
+The desktop entry file  "/usr/share/applications/mb-applet-system-monitor.desktop"  has Type= "PanelApp"  instead of "Application" or "Service"
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/mb-applet-system-monitor.desktop"
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/kcalcrc.upd' will be skipped."
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/konversation.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/konversation.upd' will be skipped."
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/krdb_libpathwipe.upd' will be skipped."
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/okular.upd' will be skipped."
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/smb4ksettings.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/smb4ksettings.upd' will be skipped."
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/storageservicemanager.upd' for new updates
+2017-08-12T23:21:57 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+kdeinit5: PID 24277 terminated.
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+1
+pm.kded: unable to register service to dbus
+detected kglobalaccel restarting, re-registering all shortcut keys
+QXcbConnection: XCB error: 1 (BadRequest), sequence: 364, resource id: 258, major code: 149 (Unknown), minor code: 25
+QXcbConnection: XCB error: 1 (BadRequest), sequence: 364, resource id: 258, major code: 149 (Unknown), minor code: 25
+kscreen: Failed to request backend: "org.freedesktop.DBus.Error.NoReply" : "Message recipient disconnected from message bus without replying"
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+Initializing  "kcm_kgamma" :  "kcminit_kgamma"
+kdeinit5: Got SETENV 'XCURSOR_THEME=ComixCursors-Blue' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=64' from launcher.
+Initializing  "kcm_style" :  "kcminit_style"
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/terror/.gtkrc:/home/terror/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/terror/.gtkrc-2.0:/home/terror/.config/gtkrc-2.0' from launcher.
+Initializing  "kcm_access" :  "kcminit_access"
+kdeinit5: Got EXEC_NEW '/usr/bin/kaccess' from launcher.
+kdeinit5: preparing to launch '/usr/bin/kaccess'
+Initializing  "kded_touchpad" :  "kcminit_touchpad"
+kcm_touchpad: Using X11 backend
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+kdeinit5: PID 24231 terminated.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+kdeinit5: Got KWRAPPER '/usr/bin/ksmserver' from wrapper.
+kdeinit5: preparing to launch '/usr/bin/ksmserver'
+Cannot find 'org.kde.KSplash.setStage' in object /KSplash at org.kde.KSplash
+QXcbConnection: XCB error: 1 (BadRequest), sequence: 388, resource id: 258, major code: 149 (Unknown), minor code: 25
+kdeinit5: PID 24293 terminated.
+kf5.kcoreaddons.kaboutdata: Could not initialize the equivalent properties of Q*Application: no instance (yet) existing.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Qt: Session management error: networkIdsList argument is NULL
+Configuring Lock Action
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+ksmserver: "/tmp/runtime-terror/KSMserver"
+ksmserver: KSMServer: SetAProc_loc: conn  0 , prot= local , file= @/tmp/.ICE-unix/24297
+ksmserver: KSMServer: SetAProc_loc: conn  1 , prot= unix , file= /tmp/.ICE-unix/24297
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/terror-desktop:@/tmp/.ICE-unix/24297,unix/terror-desktop:/tmp/.ICE-unix/24297' from launcher.
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+ksmserver: Starting autostart service  "/etc/xdg/autostart/baloo_file.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/krunner.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pam_kwallet_init.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/plasmashell.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/xembedsniproxy.desktop"
+ksmserver: Autostart 0 done
+The session is not registered:  "PID 24297 does not belong to any known session"
+ksmserver: Kcminit phase 1 done
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pulseaudio.desktop"
+ksmserver: Autostart 1 done
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+bluedevil: Created
+Installing the delayed initialization callback.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+kf5.kcoreaddons.kaboutdata: Could not initialize the equivalent properties of Q*Application: no instance (yet) existing.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+org.kde.kcm_keyboard: Cannot open the rules file "/usr/share/X11/xkb/rules/xorg.extras.xml"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+kf5.kded: found kded module "notificationhelper" by prepending 'kded_' to the library path, please fix your metadata.
+ksmserver: Starting autostart script  "/home/terror/.config/autostart-scripts/irexec_start.sh"
+ksmserver: Starting notification thread
+ksmserver: Kcminit phase 2 done
+ksmserver: autostart service ("/lib/x86_64-linux-gnu/libexec/pam_kwallet_init") finished with exit code  0
+ksmserver: Starting autostart service  "/home/terror/.config/autostart/mythlcdserver.desktop"
+ksmserver: Starting autostart service  "/home/terror/.config/autostart/mythwelcome.desktop"
+ksmserver: Starting autostart service  "/home/terror/.config/autostart/org.kde.yakuake.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/at-spi-dbus-bus.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/gcdemu.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/needrestart-dbus-session.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/nvidia-settings-autostart.desktop"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pam-dbus-notify.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/powerdevil.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/xbindkeys.desktop"
+mkdir: das Verzeichnis »/run/lirc“ kann nicht angelegt werden: Die Datei existiert bereits
+ksmserver: Starting autostart service  "/etc/xdg/autostart/kup-daemon.desktop"
+ksmserver: Autostart 2 done
+New PolkitAgentListener  0x20c9ce0
+Adding new listener  PolkitQt1::Agent::Listener(0x20d1a90) for  0x20c9ce0
+Listener online
+"Cannot create unix session: No session for pid 24317"
+
+** (process:24317): CRITICAL **: polkit_agent_listener_register_with_options: assertion 'POLKIT_IS_SUBJECT (subject)' failed
+"Cannot register authentication agent!"
+Authentication agent result: false
+Couldn't register listener!
+
+(process:24317): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Could not initialize GLX
+KCrash: crashing... crashRecursionCounter = 2
+KCrash: Application Name = krunner path = /usr/bin pid = 24313
+KCrash: Arguments: /usr/bin/krunner 
+KCrash: Attempting to start /usr/lib/x86_64-linux-gnu/libexec/drkonqi from kdeinit
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/drkonqi' from wrapper.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/drkonqi'
+
+** (process:24346): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+Activating service name='org.a11y.atspi.Registry'
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+ln: Die symbolische Verknüpfung '/run/lirc/lircd' konnte nicht angelegt werden: Die Datei existiert bereits
+Successfully activated service 'org.a11y.atspi.Registry'
+ksmserver: autostart script ("/home/terror/.config/autostart-scripts/irexec_start.sh") finished with exit code  0
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+ksmserver: autostart service ("/usr/bin/xbindkeys_autostart") finished with exit code  0
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Config timer connecting...
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+Delayed initialization.
+Reloading the khotkeys configuration
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+Version 2 File!
+Setting the name of  0x21ed540  to  "org.kde.ActivityManager.Resources.Scoring"
+Creating directory:  "/home/terror/.local/share/kactivitymanagerd/resources/"
+KActivities: Database connection:  "kactivities_db_resources_139841864083712_readwrite" 
+    query_only:          QVariant(qlonglong, 0) 
+    journal_mode:        QVariant(QString, "wal") 
+    wal_autocheckpoint:  QVariant(qlonglong, 100) 
+    synchronous:         QVariant(qlonglong, 1)
+Setting the name of  0x2259560  to  "org.kde.ActivityManager.ActivityTemplates"
+true
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Setting the name of  0x2252330  to  "org.kde.ActivityManager.RunApplication"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Service started, version: 7.0.0
+Cleaning up...
+Service started, version: 7.0.0
+Cleaning up...
+Imported file "/usr/share/khotkeys/spectacle.khotkeys"
+Imported file "/usr/share/khotkeys/konqueror_gestures_kde321.khotkeys"
+Imported file "/usr/share/khotkeys/kde32b1.khotkeys"
+Imported file "/usr/share/khotkeys/defaults.khotkeys"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+failed to get the current screen resources
+ksmserver: autostart service ("/bin/sh", "-c", "/usr/bin/nvidia-settings --load-config-only") finished with exit code  0
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+bluedevil: ObexManager operational changed false
+bluedevil: Bluetooth operational changed true
+bluedevil: Agent registered
+bluedevil: Requested default Agent
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+Kup ist nicht aktiviert, bitte aktivieren sie es in den Systemeinstellungen. Alternativ können Sie kcmshell5 kup eingeben.
+ksmserver: autostart service ("/usr/bin/kup-daemon") finished with exit code  0
+ksmserver: autostart service ("/usr/lib/needrestart-session/needrestart-dbus-session") finished with exit code  0
+found lsb_release
+Using /proc to determine executable path
+Executable is: "/usr/bin/krunner"
+Executable exists: true
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Enabling drkonqi crash catching
+powerdevil: Backend loaded, loading core
+powerdevil: Core loaded, initializing backend
+powerdevil: No outputs have backlight property
+powerdevil: Falling back to helper to get brightness
+2017-08-12 23:22:03.426328 C  mythlcdserver version: fixes/29 [v29.0-11-gd35436d] www.mythtv.org
+2017-08-12 23:22:03.426349 C  Qt version: compile: 5.5.1, runtime: 5.9.1
+2017-08-12 23:22:03.426352 N  Enabled verbose msgs:  general
+2017-08-12 23:22:03.426382 N  Setting Log Level to LOG_INFO
+2017-08-12 23:22:03.450656 I  Setup Unterbrechung handler
+2017-08-12 23:22:03.450667 I  Setup Beendet handler
+2017-08-12 23:22:03.450675 I  Setup Speicherzugriffsfehler handler
+2017-08-12 23:22:03.450682 I  Setup Abgebrochen handler
+2017-08-12 23:22:03.450689 I  Setup Bus-Zugriffsfehler handler
+2017-08-12 23:22:03.450696 I  Setup Gleitkomma-Ausnahme handler
+2017-08-12 23:22:03.450704 I  Setup Ungültiger Maschinenbefehl handler
+2017-08-12 23:22:03.450713 I  Setup Real-Time Signal 0 handler
+2017-08-12 23:22:03.450722 I  Setup Aufgelegt handler
+2017-08-12 23:22:03.450778 N  Using runtime prefix = /usr
+2017-08-12 23:22:03.450782 N  Using configuration directory = /home/terror/.mythtv
+2017-08-12 23:22:03.450845 I  Assumed character encoding: de_DE.UTF-8
+2017-08-12 23:22:03.451234 I  Using localhost value of Wohnzimmer
+2017-08-12 23:22:03.451287 I  Start up testing connections. DB 192.168.178.99, BE , attempt 0, status start
+2017-08-12 23:22:03.464142 I  Added logging to the console
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+"/org/freedesktop/UDisks2/drives/CDEmu_Virt_2e_CD_2fDVD_ROM_1" has new interfaces: ("org.freedesktop.UDisks2.Drive")
+"/org/freedesktop/UDisks2/block_devices/sr2" has new interfaces: ("org.freedesktop.UDisks2.Block")
+QObject::connect: invalid null parameter
+bluedevil: ObexManager operational changed true
+bluedevil: ObexAgent registered
+ksmserver: completeShutdownOrCheckpoint called
+powerdevil: org.kde.powerdevil.discretegpuhelper.hasdualgpu failed
+powerdevil: ""
+powerdevil: org.kde.powerdevil.backlighthelper.brightness failed
+powerdevil: ""
+No XVisualInfo for format QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize 0, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SwapBehavior(SingleBuffer), swapInterval 1, profile  QSurfaceFormat::OpenGLContextProfile(NoProfile))
+kwin_core: Compositing is not possible
+Falling back to using screens root_visual.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 638, resource id: 31457287, major code: 3 (GetWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 9 (BadDrawable), sequence: 639, resource id: 31457287, major code: 14 (GetGeometry), minor code: 0
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/terror/.local/share", "/home/terror/.local/share/flatpak/exports/share", "/var/lib/flatpak/exports/share", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/terror/.local/share", "/home/terror/.local/share/flatpak/exports/share", "/var/lib/flatpak/exports/share", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/terror/.local/share", "/home/terror/.local/share/flatpak/exports/share", "/var/lib/flatpak/exports/share", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/terror/.local/share", "/home/terror/.local/share/flatpak/exports/share", "/var/lib/flatpak/exports/share", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/terror/.local/share", "/home/terror/.local/share/flatpak/exports/share", "/var/lib/flatpak/exports/share", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+powerdevil: Backend is ready, KDE Power Management system initialized
+QWidget: Cannot create a QWidget without QApplication
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+2017-08-12 23:22:03.941208 C  mythwelcome version: fixes/29 [v29.0-11-gd35436d] www.mythtv.org
+2017-08-12 23:22:03.941230 C  Qt version: compile: 5.5.1, runtime: 5.9.1
+2017-08-12 23:22:03.941234 N  Enabled verbose msgs:  general
+2017-08-12 23:22:03.941245 N  Setting Log Level to LOG_INFO
+2017-08-12 23:22:03.952712 I  Setup Unterbrechung handler
+2017-08-12 23:22:03.952723 I  Setup Beendet handler
+2017-08-12 23:22:03.952731 I  Setup Speicherzugriffsfehler handler
+2017-08-12 23:22:03.952738 I  Setup Abgebrochen handler
+2017-08-12 23:22:03.952745 I  Setup Bus-Zugriffsfehler handler
+2017-08-12 23:22:03.952751 I  Setup Gleitkomma-Ausnahme handler
+2017-08-12 23:22:03.952759 I  Setup Ungültiger Maschinenbefehl handler
+2017-08-12 23:22:03.952768 I  Setup Real-Time Signal 0 handler
+2017-08-12 23:22:03.952777 I  Setup Aufgelegt handler
+2017-08-12 23:22:03.952830 N  Using runtime prefix = /usr
+2017-08-12 23:22:03.952833 N  Using configuration directory = /home/terror/.mythtv
+2017-08-12 23:22:03.952898 I  Assumed character encoding: de_DE.UTF-8
+2017-08-12 23:22:03.953353 I  Using localhost value of Wohnzimmer
+2017-08-12 23:22:03.953403 I  Start up testing connections. DB 192.168.178.99, BE , attempt 0, status start
+2017-08-12 23:22:03.953912 I  Added logging to the console
+kf5.kwidgetsaddons: Invalid pixmap specified.
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+org.kde.baloo: "/home/terror"
+No XVisualInfo for format QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize -1, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SwapBehavior(SingleBuffer), swapInterval 1, profile  QSurfaceFormat::OpenGLContextProfile(NoProfile))
+Falling back to using screens root_visual.
+org.kde.baloo: "/storage"
+"/org/freedesktop/UDisks2/drives/CDEmu_Virt_2e_CD_2fDVD_ROM_1" has new interfaces: ("org.freedesktop.UDisks2.Drive")
+"/org/freedesktop/UDisks2/block_devices/sr2" has new interfaces: ("org.freedesktop.UDisks2.Block")
+org.kde.baloo: "/org/freedesktop/UDisks2/block_devices/sr2"
+QObject::connect: invalid null parameter
+Could not initialize GLX
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+2017-08-12 23:22:04.466580 I  Using WOL to wakeup database server (Try 1 of 10)
+2017-08-12 23:22:04.467609 I  Starting process manager
+2017-08-12 23:22:04.467706 I  Starting process signal handler
+2017-08-12 23:22:04.469205 I  Starting IO manager (write)
+2017-08-12 23:22:04.470491 I  Starting IO manager (read)
+Registering ":1.27/org/ayatana/NotificationItem/gcdemu" to system tray
+KCrash: Attempting to start /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil from kdeinit
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil' from wrapper.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil'
+KCrash: crashing... crashRecursionCounter = 2
+KCrash: Application Name = org_kde_powerdevil path = /usr/lib/x86_64-linux-gnu/libexec pid = 24352
+KCrash: Arguments: /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil 
+KCrash: Attempting to start /usr/lib/x86_64-linux-gnu/libexec/drkonqi from kdeinit
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/drkonqi' from wrapper.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/drkonqi'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+2017-08-12 23:22:04.996589 I  Using WOL to wakeup database server (Try 1 of 10)
+2017-08-12 23:22:04.999458 I  Starting IO manager (read)
+2017-08-12 23:22:04.999789 I  Starting process manager
+2017-08-12 23:22:04.999795 I  Starting IO manager (write)
+2017-08-12 23:22:04.999658 I  Starting process signal handler
+failed to get the current screen resources
+failed to get the current screen resources
+Verbindungsfehler: Verbindung verweigert
+pa_context_new() fehlgeschlagen: Verbindung verweigert
+ksmserver: autostart service ("/usr/bin/start-pulseaudio-x11") finished with exit code  1
+QSocketNotifier: Invalid socket 8 and type 'Read', disabling...
+QSocketNotifier: Invalid socket 10 and type 'Read', disabling...
+QSocketNotifier: Invalid socket 9 and type 'Read', disabling...
+QSocketNotifier: Invalid socket 14 and type 'Read', disabling...
+"Message recipient disconnected from message bus without replying"
+kdeinit5: PID 24585 terminated.
+found lsb_release
+Using /proc to determine executable path
+Executable is: "/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil"
+Executable exists: true
+KCrash: Attempting to start /usr/bin/plasmashell from kdeinit
+kdeinit5: Got EXEC_NEW '/usr/bin/plasmashell' from wrapper.
+kdeinit5: preparing to launch '/usr/bin/plasmashell'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Enabling drkonqi crash catching
+KCrash: crashing... crashRecursionCounter = 2
+KCrash: Application Name = plasmashell path = /usr/bin pid = 24315
+KCrash: Arguments: /usr/bin/plasmashell 
+KCrash: Attempting to start /usr/lib/x86_64-linux-gnu/libexec/drkonqi from kdeinit
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/drkonqi' from wrapper.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/drkonqi'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Sending SIGSTOP to process
+failed to get the current screen resources
+failed to get the current screen resources
+No XVisualInfo for format QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize -1, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SwapBehavior(SingleBuffer), swapInterval 1, profile  QSurfaceFormat::OpenGLContextProfile(NoProfile))
+Falling back to using screens root_visual.
+Xlib:  extension "MIT-SCREEN-SAVER" missing on display ":73".
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+Registering ":1.51/StatusNotifierItem" to system tray
+Sending SIGSTOP to process
+QSocketNotifier: Invalid socket 8 and type 'Read', disabling...
+QSocketNotifier: Invalid socket 9 and type 'Read', disabling...
+"Message recipient disconnected from message bus without replying"
+kdeinit5: PID 24623 terminated.
+found lsb_release
+Using /proc to determine executable path
+Executable is: "/usr/bin/plasmashell"
+Executable exists: true
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+Enabling drkonqi crash catching
+Xlib:  extension "MIT-SCREEN-SAVER" missing on display ":73".
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+Registering ":1.56/StatusNotifierItem" to system tray
+Sending SIGSTOP to process
+2017-08-12 23:22:19.519236 I  Using WOL to wakeup database server (Try 2 of 10)
+2017-08-12 23:22:20.052092 I  Using WOL to wakeup database server (Try 2 of 10)
+2017-08-12 23:22:34.554106 I  Using WOL to wakeup database server (Try 3 of 10)
+2017-08-12 23:22:35.090477 I  Using WOL to wakeup database server (Try 3 of 10)
+2017-08-12 23:22:49.591490 I  Using WOL to wakeup database server (Try 4 of 10)
+2017-08-12 23:22:50.128118 I  Using WOL to wakeup database server (Try 4 of 10)
+2017-08-12 23:23:04.631479 I  Using WOL to wakeup database server (Try 5 of 10)
+Sending SIGCONT to process
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1084, resource id: 35651588, major code: 18 (ChangeProperty), minor code: 0
+KCrash: crashing... crashRecursionCounter = 2
+KCrash: Application Name = drkonqi path = /usr/lib/x86_64-linux-gnu/libexec pid = 24586
+KCrash: Arguments: /usr/lib/x86_64-linux-gnu/libexec/drkonqi --appname org_kde_powerdevil --apppath /usr/lib/x86_64-linux-gnu/libexec --signal 6 --pid 24352 --startupid 0 --restarted 
+KCrash: Attempting to start /usr/lib/x86_64-linux-gnu/libexec/drkonqi from kdeinit
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/drkonqi' from wrapper.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/drkonqi'
+ksmserver: autostart service ("/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil") finished with exit code  9
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+failed to get the current screen resources
+found lsb_release
+Using /proc to determine executable path
+Executable is: "/usr/lib/x86_64-linux-gnu/libexec/drkonqi"
+Executable exists: true
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+2017-08-12 23:23:05.165829 I  Using WOL to wakeup database server (Try 5 of 10)
+kf5.kwidgetsaddons: Invalid pixmap specified.
+No XVisualInfo for format QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize -1, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SwapBehavior(SingleBuffer), swapInterval 1, profile  QSurfaceFormat::OpenGLContextProfile(NoProfile))
+Falling back to using screens root_visual.
+QXcbConnection: XCB error: 172 (Unknown), sequence: 169, resource id: 258, major code: 149 (Unknown), minor code: 20
+No XVisualInfo for format QSurfaceFormat(version 2.0, options QFlags<QSurfaceFormat::FormatOption>(), depthBufferSize -1, redBufferSize 1, greenBufferSize 1, blueBufferSize 1, alphaBufferSize -1, stencilBufferSize -1, samples -1, swapBehavior QSurfaceFormat::SwapBehavior(SingleBuffer), swapInterval 1, profile  QSurfaceFormat::OpenGLContextProfile(NoProfile))
+Falling back to using screens root_visual.
+Sending SIGCONT to process
+2017-08-12 23:23:19.668681 I  Using WOL to wakeup database server (Try 6 of 10)
+2017-08-12 23:23:20.206755 I  Using WOL to wakeup database server (Try 6 of 10)
+klauncher: Exiting on signal 15
+The X11 connection broke (error 1). Did the X11 server die?
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+2017-08-12 23:23:23.633338 I  Using WOL to wakeup database server (Try 7 of 10)
+2017-08-12 23:23:23.683124 I  Using WOL to wakeup database server (Try 7 of 10)
+QProcess: Destroyed while process ("kwin_x11") is still running.
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QProcess: Destroyed while process ("/usr/bin/baloo_file") is still running.
+ksmserver: autostart service ("") finished with exit code  15
+QProcess: Destroyed while process ("/usr/bin/krunner") is still running.
+ksmserver: autostart service ("") finished with exit code  15
+KCrash: crashing... crashRecursionCounter = 2
+KCrash: Application Name = ksmserver path = /usr/bin pid = 24297
+KCrash: Arguments: /usr/bin/ksmserver 
+KCrash: Attempting to start /usr/lib/x86_64-linux-gnu/libexec/drkonqi from kdeinit
+Warning: connect() failed: : Verbindungsaufbau abgelehnt
+KCrash: Attempting to start /usr/lib/x86_64-linux-gnu/libexec/drkonqi directly
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+bluedevil: Destroyed
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QThread: Destroyed while thread is still running
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+The X11 connection broke: I/O error (code 1)
+XIO:  fatal IO error 11 (Die Ressource ist zur Zeit nicht verfügbar) on X server ":73"
+      after 909 requests (909 known processed) with 0 events remaining.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-terror'
+QXcbConnection: Could not connect to display :73

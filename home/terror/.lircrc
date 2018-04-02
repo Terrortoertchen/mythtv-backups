@@ -1,0 +1,12 @@
+#Custom lircrc generated via mythbuntu-lirc-generator
+#All application specific lircrc files are within ~/.lirc
+include ~/.lirc/mythtv
+include ~/.lirc/mplayer
+include ~/.lirc/xine
+include ~/.lirc/vlc
+include ~/.lirc/xmame
+include ~/.lirc/xmess
+include ~/.lirc/totem
+include ~/.lirc/elisa
+include ~/.lirc/firefox
+include ~/.lirc/google-chrome

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Alexander subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Computer" title="Computer">
+            <outline type="rss" text="ComputerBase News" title="ComputerBase News" xmlUrl="http://www.computerbase.de/rss/news.xml" htmlUrl="https://www.computerbase.de/"/>
+            <outline type="rss" text="WinFuture News" title="WinFuture News" xmlUrl="http://www.winfuture.de/winfuturenews.xml" htmlUrl="http://winfuture.de/"/>
+            <outline type="rss" text="CHIP Online Topnews" title="CHIP Online Topnews" xmlUrl="http://www.chip.de/rss_news.xml" htmlUrl="http://www.chip.de"/>
+            <outline type="rss" text="PCtipp-News (10)" title="PCtipp-News (10)" xmlUrl="http://www.pctipp.ch/newsfeed/pctipp.rss" htmlUrl="http://www.pctipp.ch/"/>
+            <outline type="rss" text="Golem.de" title="Golem.de" xmlUrl="http://www.golem.de/rss.php?feed=RSS1.0" htmlUrl="https://www.golem.de/"/>
+            <outline type="rss" text="heise Security" title="heise Security" xmlUrl="http://www.heise.de/security/news/news-atom.xml" htmlUrl="https://www.heise.de/security/"/>
+            <outline type="rss" text="netzwelt.de - News, Downloads &amp; Tests" title="netzwelt.de - News, Downloads &amp; Tests" xmlUrl="http://www.h2-world.net/xml/rss.xml" htmlUrl="http://www.netzwelt.de/"/>
+            <outline type="rss" text="heise online News" title="heise online News" xmlUrl="http://www.heise.de/newsticker/heise.rdf" htmlUrl="https://www.heise.de/newsticker/"/>
+            <outline type="rss" text="Linux und Open Source" title="Linux und Open Source" xmlUrl="http://www.heise.de/open/news/news.rdf" htmlUrl="https://www.heise.de/thema/Linux-und-Open-Source"/>
+        </outline>
+        <outline text="Linux" title="Linux">
+            <outline type="rss" text="Linux-Magazin Online News" title="Linux-Magazin Online News" xmlUrl="http://www.linux-magazin.de/rss/feed/news" htmlUrl="http://www.linux-magazin.de/"/>
+            <outline type="rss" text="Linux und Ich" title="Linux und Ich" xmlUrl="http://linuxundich.de/de/feed/" htmlUrl="https://linuxundich.de"/>
+            <outline type="rss" text="LWN.net" title="LWN.net" xmlUrl="http://lwn.net/headlines/newrss" htmlUrl="https://lwn.net"/>
+            <outline type="rss" text="Tom Limoncelli's EverythingSysadmin Blog" title="Tom Limoncelli's EverythingSysadmin Blog" xmlUrl="http://feeds.everythingsysadmin.com/EverythingSysadmin" htmlUrl="http://everythingsysadmin.com/"/>
+            <outline type="rss" text="Linux Journal - The Original Magazi..." title="Linux Journal - The Original Magazi..." xmlUrl="http://www.linuxjournal.com/node/feed" htmlUrl="http://www.linuxjournal.com/"/>
+            <outline type="rss" text="LinuxCommunity RSS-Feed News und Artikel" title="LinuxCommunity RSS-Feed News und Artikel" xmlUrl="http://www.linux-community.de/Ticker/news.rdf" htmlUrl="http://www.linux-community.de/"/>
+            <outline type="rss" text="freiesMagazin" title="freiesMagazin" xmlUrl="http://www.freiesmagazin.de/rss.xml" htmlUrl="http://www.freiesmagazin.de"/>
+            <outline type="rss" text="Manjaro Linux" title="Manjaro Linux" xmlUrl="http://manjaro.org/feed/" htmlUrl="https://manjaro.org"/>
+            <outline type="rss" text="The Geek Stuff" title="The Geek Stuff" xmlUrl="http://feeds.feedburner.com/TheGeekStuff" htmlUrl="http://www.thegeekstuff.com"/>
+            <outline type="rss" text="HowtoForge - Linux Howtos and Tutor..." title="HowtoForge - Linux Howtos and Tutor..." xmlUrl="http://www.howtoforge.com/node/feed" htmlUrl="https://www.howtoforge.com"/>
+            <outline type="rss" text="Pro-Linux News" title="Pro-Linux News" xmlUrl="http://www.pro-linux.de/backend/pro-linux.rdf" htmlUrl="http://www.pro-linux.de"/>
+            <outline type="rss" text="[RSS/Feed] nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" title="[RSS/Feed] nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format" xmlUrl="http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks" htmlUrl="http://www.cyberciti.biz/"/>
+            <outline type="rss" text="Linuxtoday.com" title="Linuxtoday.com" xmlUrl="http://linuxtoday.com/backend/biglt.rss" htmlUrl="http://www.linuxtoday.com/"/>
+            <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="http://www.phoronix.com/"/>
+            <outline type="rss" text="TecChannel | Alle News" title="TecChannel | Alle News" xmlUrl="http://www.tecchannel.de/news/feed/complete.rss" htmlUrl="http://www.tecchannel.de/"/>
+        </outline>
+        <outline text="Musik" title="Musik">
+            <outline type="rss" text="Techno Live Sets TLS Podcast" title="Techno Live Sets TLS Podcast" xmlUrl="http://technolivesets.blogspot.com/feeds/posts/default" htmlUrl="http://www.techno-livesets.com"/>
+        </outline>
+    </body>
+</opml>

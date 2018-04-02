@@ -1,0 +1,22 @@
+<Configuration>
+  <LocalHostName>Wohnzimmer</LocalHostName>
+  <Database>
+    <PingHost>1</PingHost>
+    <Host>192.168.178.99</Host>
+    <UserName>mythtv</UserName>
+    <Password>t3rr0r</Password>
+    <DatabaseName>mythconverg</DatabaseName>
+    <Port>3306</Port>
+  </Database>
+  <WakeOnLAN>
+    <Enabled>0</Enabled>
+    <SQLReconnectWaitTime>20</SQLReconnectWaitTime>
+    <SQLConnectRetry>5</SQLConnectRetry>
+    <Command>sudo systemctl start mysql</Command>
+  </WakeOnLAN>
+  <UPnP>
+    <UDN>
+      <MediaRenderer>4bde4822-1130-4d9e-92cb-a7b7684da6b2</MediaRenderer>
+    </UDN>
+  </UPnP>
+</Configuration>

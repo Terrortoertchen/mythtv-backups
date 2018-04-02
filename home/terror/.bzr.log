@@ -1,0 +1,113 @@
+
+this is a debug log for diagnosing/reporting problems in bzr
+you can delete or truncate this file, or include sections in
+bug reports to https://bugs.launchpad.net/bzr/+filebug
+
+So 2016-07-03 10:49:52 +0200
+0.257  bazaar version: 2.7.0
+0.257  bzr arguments: [u'branch', u'lp:~7-seven/lossless-cut/trunk']
+0.296  looking for plugins in /home/terror/.bazaar/plugins
+0.296  looking for plugins in /usr/lib/python2.7/dist-packages/bzrlib/plugins
+0.380  encoding stdout as sys.stdout encoding 'UTF-8'
+[ 6197] 2016-07-03 10:49:53.295 WARNING: You have not informed bzr of your Launchpad ID, and you must do this to
+write to Launchpad or access private data.  See "bzr help launchpad-login".
+2.064  creating repository in file:///home/terror/Projekte/trunk/.bzr/.
+2.070  Using fetch logic to copy between CHKInventoryRepository('http://bazaar.launchpad.net/~7-seven/lossless-cut/trunk/.bzr/repository/')(RepositoryFormat2a()) and CHKInventoryRepository('file:///home/terror/Projekte/trunk/.bzr/repository/')(RepositoryFormat2a())
+2.070  fetching: <PendingAncestryResult heads:frozenset(['seven@seven.dorksville.net-20160512051243-dc7peiz726ndiw2p']) repo:CHKInventoryRepository('http://bazaar.launchpad.net/~7-seven/lossless-cut/trunk/.bzr/repository/')>
+3.621  23 bytes left on the HTTP socket
+4.017  23 bytes left on the HTTP socket
+4.781  creating branch <bzrlib.branch.BzrBranchFormat7 object at 0x7fd15d3d0210> in file:///home/terror/Projekte/trunk/
+4.792  23 bytes left on the HTTP socket
+4.854  created new branch BzrBranch7(file:///home/terror/Projekte/trunk/)
+4.855  trying to create missing lock '/home/terror/Projekte/trunk/.bzr/checkout/dirstate'
+4.888  opening working tree '/home/terror/Projekte/trunk'
+[ 6197] 2016-07-03 10:49:57.618 INFO: 14 Revisionen abgezweigt.
+5.132  Transferred: 2692kB (640.3kB/s r:2683kB w:9kB)
+5.132  return code 0
+
+Sa 2016-07-16 04:04:51 +0200
+0.293  bazaar version: 2.7.0
+0.293  bzr arguments: [u'branch', u'lp:turnoff']
+0.337  looking for plugins in /home/terror/.bazaar/plugins
+0.337  looking for plugins in /usr/lib/python2.7/dist-packages/bzrlib/plugins
+0.396  encoding stdout as sys.stdout encoding 'UTF-8'
+[19214] 2016-07-16 04:04:52.160 WARNING: You have not informed bzr of your Launchpad ID, and you must do this to
+write to Launchpad or access private data.  See "bzr help launchpad-login".
+2.021  creating repository in file:///home/terror/Projekte/turnoff/.bzr/.
+2.060  Using fetch logic to copy between KnitPackRepository('http://bazaar.launchpad.net/~pekka-jaaskelainen/turnoff/trunk/.bzr/repository/')(RepositoryFormatKnitPack1()) and KnitPackRepository('file:///home/terror/Projekte/turnoff/.bzr/repository/')(RepositoryFormatKnitPack1())
+2.061  fetching: <PendingAncestryResult heads:frozenset(['visit0r@nestori.nestori-20141129205315-c6z1yaj2f63fwgk2']) repo:KnitPackRepository('http://bazaar.launchpad.net/~pekka-jaaskelainen/turnoff/trunk/.bzr/repository/')>
+4.362  creating branch <bzrlib.branch.BzrBranchFormat6 object at 0x7fe1fcbe6750> in file:///home/terror/Projekte/turnoff/
+4.408  created new branch BzrBranch6(file:///home/terror/Projekte/turnoff/)
+4.409  trying to create missing lock '/home/terror/Projekte/turnoff/.bzr/checkout/dirstate'
+4.440  opening working tree '/home/terror/Projekte/turnoff'
+[19214] 2016-07-16 04:04:55.916 INFO: 42 Revisionen abgezweigt.
+4.607  Transferred: 172kB (47.6kB/s r:154kB w:18kB)
+4.607  return code 0
+
+So 2016-08-14 11:33:19 +0200
+0.332  bazaar version: 2.7.0
+0.332  bzr arguments: [u'bash-completion']
+0.388  looking for plugins in /home/terror/.bazaar/plugins
+0.388  looking for plugins in /usr/lib/python2.7/dist-packages/bzrlib/plugins
+0.484  encoding stdout as sys.stdin encoding 'UTF-8'
+0.910  Transferred: 0kB (0.0kB/s r:0kB w:0kB)
+0.911  return code 0
+
+So 2016-08-14 11:33:42 +0200
+0.067  bazaar version: 2.7.0
+0.067  bzr arguments: [u'update']
+0.073  looking for plugins in /home/terror/.bazaar/plugins
+0.073  looking for plugins in /usr/lib/python2.7/dist-packages/bzrlib/plugins
+0.083  encoding stdout as sys.stdout encoding 'UTF-8'
+0.360  opening working tree '/home/terror/Projekte/turnoff'
+[ 5470] 2016-08-14 11:33:42.894 INFO: Baum ist auf den neusten Stand bei Revision 42 von Zweig /home/terror/Projekte/turnoff
+0.462  Transferred: 0kB (0.0kB/s r:0kB w:0kB)
+0.462  return code 0
+
+So 2016-08-14 11:33:51 +0200
+0.067  bazaar version: 2.7.0
+0.067  bzr arguments: [u'upgrade']
+0.073  looking for plugins in /home/terror/.bazaar/plugins
+0.073  looking for plugins in /usr/lib/python2.7/dist-packages/bzrlib/plugins
+0.083  encoding stdout as sys.stdout encoding 'UTF-8'
+0.322  creating repository in file:///home/terror/Projekte/turnoff/.bzr/.
+0.768  Packing repository GCRepositoryPackCollection(CHKInventoryRepository('file:///home/terror/Projekte/turnoff/.bzr/repository/')), which has 1 pack files, containing 44 revisions with hint ['28e42dc5790ab83d1aca946736ea3a0f'].
+0.768  repacking 44 revisions
+0.779  repacking 44 inventories
+0.789  repacking chk: 44 id_to_entry roots, 10 p_id_map roots, 54 total keys
+0.803  repacking 161 texts
+0.826  repacking 0 signatures
+1.071  opening working tree '/home/terror/Projekte/turnoff'
+1.145  opening working tree '/home/terror/Projekte/turnoff'
+1.146  Transferred: 0kB (0.0kB/s r:0kB w:0kB)
+1.146  return code 0
+
+So 2016-08-14 11:34:40 +0200
+0.067  bazaar version: 2.7.0
+0.067  bzr arguments: [u'up']
+0.073  looking for plugins in /home/terror/.bazaar/plugins
+0.073  looking for plugins in /usr/lib/python2.7/dist-packages/bzrlib/plugins
+0.083  encoding stdout as sys.stdout encoding 'UTF-8'
+0.102  opening working tree '/home/terror/Projekte/turnoff'
+[ 6449] 2016-08-14 11:34:40.649 INFO: Baum ist auf den neusten Stand bei Revision 42 von Zweig /home/terror/Projekte/turnoff
+0.119  Transferred: 0kB (0.0kB/s r:0kB w:0kB)
+0.119  return code 0
+
+Mi 2017-08-16 03:32:51 +0200
+0.253  bazaar version: 2.7.0
+0.254  bzr arguments: [u'branch', u'lp:~mythbuntu/mythbuntu/mythbuntu-remote-manager']
+0.282  looking for plugins in /home/terror/.bazaar/plugins
+0.282  looking for plugins in /usr/lib/python2.7/dist-packages/bzrlib/plugins
+0.345  encoding stdout as sys.stdout encoding 'UTF-8'
+[14166] 2017-08-16 03:32:52.594 WARNING: You have not informed bzr of your Launchpad ID, and you must do this to
+write to Launchpad or access private data.  See "bzr help launchpad-login".
+1.662  creating repository in file:///home/terror/Projekte/mythbuntu-remote-manager/.bzr/.
+1.724  Using fetch logic to copy between KnitPackRepository('http://bazaar.launchpad.net/~mythbuntu/mythbuntu/mythbuntu-remote-manager/.bzr/repository/')(RepositoryFormatKnitPack1()) and KnitPackRepository('file:///home/terror/Projekte/mythbuntu-remote-manager/.bzr/repository/')(RepositoryFormatKnitPack1())
+1.725  fetching: <PendingAncestryResult heads:frozenset(['nick@work-lappy-20080316112336-oqqzex05ew0l741n']) repo:KnitPackRepository('http://bazaar.launchpad.net/~mythbuntu/mythbuntu/mythbuntu-remote-manager/.bzr/repository/')>
+2.142  creating branch <bzrlib.branch.BzrBranchFormat6 object at 0x7f71b1a47590> in file:///home/terror/Projekte/mythbuntu-remote-manager/
+2.181  created new branch BzrBranch6(file:///home/terror/Projekte/mythbuntu-remote-manager/)
+2.191  trying to create missing lock '/home/terror/Projekte/mythbuntu-remote-manager/.bzr/checkout/dirstate'
+2.230  opening working tree '/home/terror/Projekte/mythbuntu-remote-manager'
+[14166] 2017-08-16 03:32:54.212 INFO: 1 Revision abgezweigt.
+2.413  Transferred: 43kB (28.6kB/s r:38kB w:5kB)
+2.413  return code 0

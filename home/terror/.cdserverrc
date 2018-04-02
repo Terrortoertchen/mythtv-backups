@@ -1,0 +1,14 @@
+SERVER=cddbp://freedb.freedb.org:8880/ CDDB
+SERVER=http://freedb.freedb.org:80/~cddb/cddb.cgi CDDB
+SERVER=cddbp://at.freedb.org:8880/ CDDB
+SERVER=http://at.freedb.org:80/~cddb/cddb.cgi CDDB
+SERVER=cddbp://ca.freedb.org:8880/ CDDB
+SERVER=http://ca.freedb.org:80/~cddb/cddb.cgi CDDB
+SERVER=cddbp://cz.freedb.org:8880/ CDDB
+SERVER=http://cz.freedb.org:80/~cddb/cddb.cgi CDDB
+SERVER=cddbp://no.freedb.org:8880/ CDDB
+SERVER=http://no.freedb.org:80/~cddb/cddb.cgi CDDB
+SERVER=cddbp://uk.freedb.org:8880/ CDDB
+SERVER=http://uk.freedb.org:80/~cddb/cddb.cgi CDDB
+SERVER=cddbp://us.freedb.org:8880/ CDDB
+SERVER=http://us.freedb.org:80/~cddb/cddb.cgi CDDB
