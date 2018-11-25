@@ -1,2 +1,3 @@
 # mythtv-backups
-Different files created over the years
+
+Backup der alten mythbox installation zwecks Räumung
